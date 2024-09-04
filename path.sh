@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=/cvmfs/cms.cern.ch/slc7_amd64_gcc530/cms/cmssw/CMSSW_8_0_27/external/slc7_amd64_gcc530/lib/:/cvmfs/cms.cern.ch/slc7_amd64_gcc530/cms/cmssw/CMSSW_8_0_27/lib/slc7_amd64_gcc530:/cvmfs/cms.cern.ch/slc7_amd64_gcc530/cms/cmssw/CMSSW_8_0_27/external/slc7_amd64_gcc530/lib/:/afs/desy.de/user/s/schaller/HiWi/topmass-alljets-kinfit/standaloneKinFitter/lib/Linux514_x86_64_gcc485/6.24.06/:$LD_LIBRARY_PATH
+export CPLUS_INCLUDE_PATH=/usr/include/c++/11/:/usr/include/:/usr/include/root/:/cvmfs/cms.cern.ch/slc7_amd64_gcc530/lcg/root/6.06.00-ikhhed/include/:/cvmfs/cms.cern.ch/slc7_amd64_gcc530/cms/cmssw/CMSSW_8_0_27/src/:$CPLUS_INCLUDE_PATH
+export LD_PRELOAD=/usr/lib64/libtbb.so.2:/usr/lib64/libfreetype.so.6:$LD_PRELOAD
